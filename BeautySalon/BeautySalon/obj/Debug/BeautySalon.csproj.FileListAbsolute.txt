@@ -1,0 +1,47 @@
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\bin\Debug\Salon'sDatabase.mdf
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\bin\Debug\Salon'sDatabase_log.ldf
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\bin\Debug\BeautySalon.exe.config
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\bin\Debug\BeautySalon.exe
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\bin\Debug\BeautySalon.pdb
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.csproj.AssemblyReference.cache
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.loginForm.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.LoginCustomer.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Properties.Resources.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.csproj.GenerateResource.cache
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.csproj.CoreCompileInputs.cache
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.exe
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.pdb
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.RegisterCustomer.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Customers.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.DefiningServices.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.EditReservation.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.LoginStaff.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.RegisterStaff.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Reservation.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Services.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Staff_sInfo.resources
+C:\Users\T460s\source\repos\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Staff.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\bin\Debug\Salon'sDatabase.mdf
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\bin\Debug\Salon'sDatabase_log.ldf
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\bin\Debug\BeautySalon.exe.config
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\bin\Debug\BeautySalon.exe
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\bin\Debug\BeautySalon.pdb
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.csproj.AssemblyReference.cache
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Customers.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.DefiningServices.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.EditReservation.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.loginForm.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.LoginCustomer.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.LoginStaff.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Properties.Resources.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.RegisterCustomer.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.RegisterStaff.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Reservation.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Services.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Staff_sInfo.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Staff.resources
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.csproj.GenerateResource.cache
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.csproj.CoreCompileInputs.cache
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.exe
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.pdb
+C:\Users\T460s\Desktop\DataBase Lab\Project\BeautySalon\BeautySalon\obj\Debug\BeautySalon.ShowReservation.resources
